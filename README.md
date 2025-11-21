@@ -18,17 +18,6 @@ El juego incluye un menú inicial, cambio de escenas, botón de reinicio y un si
 
 ---
 
-## Controles
-
-| Acción              | Tecla               |
-|--------------------|---------------------|
-| Mover la bola      | Flechas del teclado |
-| Saltar             | Barra espaciadora   |
-| Reiniciar partida  | Botón Restart / Auto |
-| Empezar partida    | Botón “Start Game” en el menú |
-
----
-
 ## 🧩 Escenas del proyecto
 
 | Escena          | Descripción |
