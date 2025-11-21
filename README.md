@@ -46,9 +46,8 @@ Assets/
 ├── Scripts/
 │ ├── CameraController.cs # Movimiento de cámara
 │ ├── EnemyMovement.cs # IA del enemigo (NavMesh + NavMeshAgent)
-│ ├── PlayerController.cs # Control del jugador, salto y recogidas
+│ ├── PlayerController.cs # Control del jugador, comer fichas
 │ ├── Rotator.cs # Rotación de los pickups
-│ └── UIManager.cs # Gestión de botones y reinicios
 └── UI/
 └── TextMesh Pro/ # Contadores y mensajes
 
