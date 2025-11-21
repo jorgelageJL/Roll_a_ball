@@ -8,12 +8,11 @@ El juego incluye un menú inicial, cambio de escenas, botón de reinicio y un si
 ## Características
 
 - Movimiento fluido del jugador usando el **Nuevo Input System**
-- Salto con la tecla **Espacio**
 - Recolección de pickups que desaparecen al tocarlos
 - Contador de objetos recogidos (UI con TextMeshPro)
 - Mensaje de victoria
 - Enemigo con IA que persigue al jugador usando **NavMesh + NavMeshAgent**
-- Colisión con el enemigo produce un reinicio de la partida
+- Colisión con el enemigo
 - Diseño simple y educativo basado en el clásico Roll-a-Ball
 
 ---
